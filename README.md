@@ -1,2 +1,2 @@
 # AirlineReservationSystem
-This is simple console base java project. 
+This is a simple console-based java project. 
